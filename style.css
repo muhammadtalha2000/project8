@@ -1,0 +1,437 @@
+body {
+    margin-top: -3px;
+}
+
+#main {
+    width: 100%;
+    height:70px;
+    background-color:#F5F5F5;
+    border-bottom: 2px solid  #D8D8D8 ;
+   
+}
+
+#div1 {
+    width: 80%;
+    height: 65px;
+    margin-left: 240px;
+
+}
+
+
+#image1 {
+    width:80%;
+    height: 68px;   
+}
+
+#head {
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    border-bottom: 2px solid #D0D0D0;
+    position: sticky;
+    top: 0px;
+    
+}
+
+#diva {
+    display: inline-block;
+    width: 140px;
+    height:80px;
+    background-color: grey;
+    margin-left: 170px;
+   
+}
+
+#divb {
+    display: inline-block;
+    width: 140px;
+    height:80px;
+    border-bottom: 4px solid orangered;
+    margin-left: -5px;
+}
+
+#divc {
+    display: inline-block;
+    width: 150px;
+    height:80px;
+    border-bottom: 4px solid orange;
+    margin-left: -5px;
+    
+}
+
+.para1 {
+    color:white;
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: center; 
+}
+
+.para2 {
+    color: grey;
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.para3 {
+    color: grey;
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#divd {
+    display: inline-block;
+    width: 150px;
+    height:80px;
+    border-bottom: 4px solid yellow;
+    margin-left: -5px;
+}
+
+#dive {
+    display: inline-block;
+    display: inline-block;
+    width: 150px;
+    height:80px;
+    border-bottom: 4px solid green;
+    margin-left: -5px;
+}
+
+#divf {
+    display: inline-block;
+    display: inline-block;
+    display: inline-block;
+    width: 150px;
+    height:80px;
+    border-bottom:4px solid turquoise;
+    margin-left: -5px;
+}
+
+#divg {
+    display: inline-block;
+    display: inline-block;
+    display: inline-block;
+    width: 150px;
+    height:80px;
+    border-bottom: 4px solid navy;
+    margin-left: -5px;
+    border-radius: 3px 5px;
+}
+
+#divb:hover {
+    background-color: orangered;
+    cursor: pointer;
+}
+
+.para2:hover {
+    color: white;
+}
+
+.para3:hover {
+    color: white;
+}
+
+#divc:hover {
+    background-color: orange;
+    cursor: pointer;
+ }
+
+
+#divd:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
+
+#dive:hover {
+    background-color: green;
+    cursor: pointer;
+}
+
+#divf:hover {
+    background-color: turquoise;
+    cursor: pointer;
+}
+
+#divg:hover {
+    background-color: navy;
+    cursor: pointer;
+}
+
+#diva:hover {
+    cursor: pointer;
+}
+
+#black {
+    width: 100%;
+    height: 2150px;
+    background-color: #181818		;
+}
+
+#white {
+    width: 90%;
+    height: 2100px;
+    background-color: white;
+    background-image: url("./images/container_bg.png");
+    margin-left: 70px;   
+}
+
+#content {
+width: 80%;
+background-color: white;
+margin-left: 150px;
+height: 2000px;
+
+
+}
+
+#one {
+    display: inline-block;
+}
+
+#logo1 {
+    margin-left: 20px;
+    width: 470px;
+    height: 450px;
+    margin-right: 15px;
+}
+
+img:hover {
+    display: none;
+}
+
+#logo3 {
+    width: 300px;
+    height: 270px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+
+#two {
+    display: inline-block;
+}
+
+#write1 {
+    width: 300px;
+    height: 100px;
+    margin-left: 10px;
+    background-color: green;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    margin-top: -5px;
+    border: solid green 2px;
+    border-radius: 6px 6px;
+}
+
+#write2 {
+    width: 300px;
+    height: 100px;
+    margin-left: 11px;
+    background-color: lightpink;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    margin-top: -5px;
+    border: lightpink 2px solid;
+    border-radius: 6px 6px;
+}
+
+#two:hover {
+    display:none;
+}
+
+#write3 {
+    width: 300px;
+    height: 170px;
+    margin-left: 11px;
+    background-color:#080808;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    margin-top: -5px;
+    border: #080808	 2px solid;
+    border-radius: 6px 6px;
+}
+
+#logo5 {
+    width: 300px;
+    height: 230px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+
+#pokemons {
+    margin-top: 30px;
+    width: 100%;
+   display: inline-block;
+   background-color: #101010;
+}
+
+#pokemon {
+    width: 300px;
+    height: 300px;
+}
+
+#btn {
+    width: 200px;
+    height: 50px;
+    font-size: 17px;
+    background-color:#181818	;
+    color: white;
+    outline:none;
+    border: none;
+    border-radius: 5px 5px;
+    margin-left: 750px;
+}
+
+#foot{
+    display: inline-block;
+}
+
+#three  {
+    display: inline-block;
+}
+
+#four {
+    display: inline-block;
+}
+
+#logo7 {
+    width: 300px;
+    height: 260px;
+    margin-left: 10px;
+    margin-top:50px;
+
+}
+
+#write4 {
+    width: 300px;
+    height: 240px;
+    margin-left: 10px;
+    background-color:orangered;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    margin-top: -5px;
+    border: orangered 2px solid;
+    border-radius: 6px 6px;
+}
+
+#write5  {
+    width: 300px;
+    height: 240px;
+    margin-left: 10px;
+    background-color:plum;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    margin-top: -5px;
+    border: plum 2px solid;
+    border-radius: 6px 6px;
+}
+
+#span1 {
+    color: black;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#span2 {
+    color:purple;
+    font-size: 18px;
+    margin-top: 10px; 
+}
+
+#logo8 {
+    width: 300px;
+    height: 260px;
+    margin-left: 10px;
+}
+
+#write6 {
+    width: 300px;
+    height: 240px;
+    margin-left: 10px;
+    background-color:yellow;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    margin-top: -5px;
+    border: yellow 2px solid;
+    border-radius: 6px 6px;
+}
+
+
+#footer {
+    width: 100%;
+    background-color:#202020	;
+    display: inline-block;
+    height: 250px;
+}
+
+#foota {
+    color: white;
+    box-shadow: 5px  black;
+    margin-left: 170px;
+    margin-top: 20px;
+}
+
+.list {
+    color: grey;
+    margin-left: 170px;
+    padding-top: 10px;
+    height: 25px;
+    list-style: square;
+    border-right: 3px solid black;
+    padding-right: 80px;
+    
+    
+}
+
+#foot1,#foot2,#foot3 {
+    display: inline-block;
+}
+
+#foot2 {
+    border-right: 3px solid black;
+    padding-right: 80px;
+}
+
+
+#logo10 {
+    margin-left: 120px;
+    margin-bottom: 120px;
+} 
+
+#logo11 {
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+.link {
+   display: block;
+    font-size: 13px;
+    color: grey;
+    padding-top: 5px;
+    margin-left: 50px;
+}
+
+#last {
+    color: grey;
+    font-size: 12px;
+    margin-left: 70px;
+}
+
+li:hover {
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+}
+
+a:hover{
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
